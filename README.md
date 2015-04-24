@@ -44,3 +44,9 @@ chmod +x my_vim.sh
 - 按F5,会执行程序
 - 按F4,会显示OutLine
 - 按F3,会显示目录
+
+
+## 放在最后
+要非常感谢以下的这两个Vim的配置项，我的这一套Vim的配置文件很大程度地参考了他们的配置，包括`shell`安装脚本以及`.vimrc`的配置文件，还有非常感谢一开始的那四篇介绍vim博文的作者池建强先生。
+- [ma6174](https://github.com/ma6174/vim)
+- [dyl](https://github.com/dengyaolong/myvimrc)
