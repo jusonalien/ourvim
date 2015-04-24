@@ -1,7 +1,7 @@
 ouvimrc
 =======
 ## 前话
-想要真真地学会如何使用Vim，你至少要学会如何配置合适自己的一套Vim的开发环境，因此非常强烈地推荐大家先去阅读下面这些文章。
+想要真真地学会如何使用Vim，你至少要学会如何配置合适自己的一套Vim的开发环境，因此非常强烈地推荐大家先去阅读下面这些文章,了解并入门Vim的插件管理的机制还有`.vimrc`的管理。
 - [谁说Vim不是IDE(1)](http://www.cnblogs.com/chijianqiang/archive/2012/10/30/vim-1.html)
 - [谁说Vim不是IDE(2)](http://www.cnblogs.com/chijianqiang/archive/2012/10/31/vim-2.html)
 - [谁说Vim不是IDE(3)](http://www.cnblogs.com/chijianqiang/archive/2012/11/06/vim-3.html)
@@ -11,8 +11,8 @@ ouvimrc
 ![效果图](https://github.com/jusonalien/ourvim/blob/master/la.png)
 
 ## 安装步骤
-### 免责声明，使用这个脚本所带来的一切后果本人无任何责任。
-- **0.**
+
+- **0.**免责声明，使用这个脚本所带来的一切后果本人无任何责任。
 - **1.**先将`my_vim.sh`放置在主文件夹下面
 - **2.**为这个`shel`脚本文件赋予可执行的权限，运行如下指令：
 ```
