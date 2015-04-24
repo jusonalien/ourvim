@@ -9,7 +9,7 @@ ouvimrc
 - 主题颜色使用是[solarzed主题](https://github.com/altercation/vim-colors-solarized)
 - 下面的那些好看的状态栏使用的是[powerline](http://vimawesome.com/plugin/vim-powerline-love-story)插件
 - 支持C/C++, Python,SQL语法的提示
-- 
+
 
 ## 一些使用技巧
 
