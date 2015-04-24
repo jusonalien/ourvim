@@ -19,10 +19,10 @@ ouvimrc
 chmod +x my_vim.sh
 ```
 - **3.**最后执行这脚本，运行如下指令:
- ```
- ./my_vim.sh
- ```
-- **4.**网速好一点的话二十分钟左右，差一点的话可能半个小时了，毕竟是托管在githu上，有时候网速啥的大家都懂。
+```
+./my_vim.sh
+```
+- **4.**网速好一点的话二十分钟左右，差一点的话可能半个小时了，毕竟是托管在github上，有时候网速啥的大家都懂。
  
 ## 一些Freature
 - 主题颜色使用是[solarzed主题](https://github.com/altercation/vim-colors-solarized)
