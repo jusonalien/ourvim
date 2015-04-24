@@ -1,6 +1,11 @@
 ouvimrc
 =======
 ## 前话
+想要真真地学会如何使用Vim，你至少要学会如何配置合适自己的一套Vim的开发环境，因此非常强烈地推荐大家先去阅读下面这些文章。
+- [谁说Vim不是IDE(1)](http://www.cnblogs.com/chijianqiang/archive/2012/10/30/vim-1.html)
+- [谁说Vim不是IDE(2)](http://www.cnblogs.com/chijianqiang/archive/2012/10/31/vim-2.html)
+- [谁说Vim不是IDE(3)](http://www.cnblogs.com/chijianqiang/archive/2012/11/06/vim-3.html)
+- [谁说Vim不是IDE(4)](http://www.cnblogs.com/chijianqiang/archive/2012/12/17/vim-4.html)
 
 这是属于非常符合我个人三观的一份Vim的配置文件，如果你喜欢的话，非常地欢迎你使用这一份Vim的配置文件，配置完毕后的显示效果大概如下：
 ![效果图](https://github.com/jusonalien/ourvim/blob/master/la.png)
@@ -17,7 +22,7 @@ chmod +x my_vim.sh
  ```
  ./my_vim.sh
  ```
- - **4.**网速好一点的话二十分钟左右，差一点的话可能半个小时了，毕竟是托管在githu上，有时候网速啥的大家都懂。
+- **4.**网速好一点的话二十分钟左右，差一点的话可能半个小时了，毕竟是托管在githu上，有时候网速啥的大家都懂。
  
 ## 一些Freature
 - 主题颜色使用是[solarzed主题](https://github.com/altercation/vim-colors-solarized)
