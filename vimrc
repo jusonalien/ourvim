@@ -68,6 +68,13 @@ Bundle 'Yggdroot/indentLine'
 Plugin 'SQLComplete.vim'
 Plugin 'pythoncomplete'
 Plugin 'a.vim'
+Plugin 'wincent/Command-T'
+Plugin 'scrooloose/syntastic'
+Plugin 'anyakichi/vim-surround'
+Plugin 'scrooloose/nerdtree'
+Plugin 'Lokaltog/vim-powerline'
+Plugin 'altercation/vim-colors-solarized'
+Plugin 'taglist.vim'
 filetype plugin indent on
 """"""""""""""""""""" Vundle
 
