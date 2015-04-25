@@ -24,11 +24,12 @@ chmod +x my_vim.sh
 ```
 - **4.**网速好一点的话二十分钟左右，差一点的话可能半个小时了，毕竟是托管在github上，有时候网速啥的大家都懂。
  
-## 一些Freature
+## 一些Feature
 - 主题颜色使用是[solarzed主题](https://github.com/altercation/vim-colors-solarized)
 - 下面的那些好看的状态栏使用的是[powerline](http://vimawesome.com/plugin/vim-powerline-love-story)插件
 - 支持C/C++, Python,SQL语法的提示
 - 支持一件编译源文件(单文件编译)
+- 除了Vundle插件外，其余的插件全部都用Vundle来安装管理，需要安装删除一些插件的话就只需要在`.vimrc`里面修改增加即可
 
 ## 所使用的插件介绍
 - Vim的杀手级插件：[Vundle](http://vimawesome.com/plugin/vundle-vim),管理插件插件
@@ -44,6 +45,9 @@ chmod +x my_vim.sh
 - 按F5,会执行程序
 - 按F4,会显示OutLine
 - 按F3,会显示目录
+
+## 插件的管理
+先在这个[网站](http://vimawesome.com/)上搜索相对应的插件，然后按照里面的教程相应地修改`.vimrc`文件即可
 
 ## 一些问题
 
